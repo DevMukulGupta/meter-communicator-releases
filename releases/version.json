@@ -1,6 +1,6 @@
 {
   "Version": "1.0.0.0",
-  "DownloadUrl": "https://github.com/DevMukulGupta/meter-communicator-releases/download/v1.0.0.0/MeterCommunicator.exe",
+  "DownloadUrl": "https://github.com/DevMukulGupta/meter-communicator-releases/releases/download/v1.0.0.0/MeterCommnucator.exe",
   "ReleaseNotes": "Initial release\n\n- First version of Meter Communicator",
   "Mandatory": false,
   "FileSize": 0
