@@ -1,7 +1,7 @@
 {
-  "Version": "1.0.1.0",
-  "DownloadUrl": "https://github.com/DevMukulGupta/meter-communicator-releases/releases/download/v1.0.1.0/MeterCommnucator.exe",
+  "Version": "1.0.1.1",
+  "DownloadUrl": "https://github.com/DevMukulGupta/meter-communicator-releases/releases/download/v1.0.1.1/MeterCommunicator.exe",
   "ReleaseNotes": "New Coms Bug fixes",
   "Mandatory": false,
-  "FileSize": 51,712
+  "FileSize": 5,52,960
 }
